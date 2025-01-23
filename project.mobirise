@@ -55,11 +55,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
-        "header_custom": "",
+        "title": "Авторазбор в Сочи",
+        "meta_descr": "Контрактные автозапчасти в Сочи. В наличии двигатели, коробки, запчасти кузова для легковых автомобилей. Авторазбор находится в Сочи. Широкий ассортимент. Доставляем в любой город.",
+        "header_custom": "<meta name=\"keywords\" content=\"авторазбор в сочи, контрактные автозапчасти, двигатели, коробки, бу запчасти в сочи\" />",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/1333434-497x600.png"
       },
       "components": [
         {
